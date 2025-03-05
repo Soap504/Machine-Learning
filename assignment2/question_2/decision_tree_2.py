@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Sophia Arce
 # FILENAME: decision_tree_2.py
 # SPECIFICATION: Train and evaluate decision tree models on different datasets
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 7 hours
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH
