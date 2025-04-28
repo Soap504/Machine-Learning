@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Sophia Arce
-# FILENAME: title of the source file
+# FILENAME: cnn.py
 # SPECIFICATION: main goal s to train a CNN model to classify 32x32 digit images
 # FOR: CS 4210 - Assignment #4
 # TIME SPENT: 3.5 hours
